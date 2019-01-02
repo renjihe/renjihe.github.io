@@ -59,19 +59,20 @@ a:visited{color:#0095eb;}
 /*skills*/
 
 .ul-skills {
-	font-size:14px;
+	font-size:15px;
 	padding-left:20px;
-	padding-right:25px;
+	padding-right:35px;
 }
 
 .ul-skills li {
-	line-height:25px;
+	line-height:30px;
 }
 
 .ul-skills li span {
 	float:right;
 	width:113px;
 	height:17px;
+	margin-top:6px;
 }
 
 li span.r1{background: url(../image/rating-sprite.png) no-repeat scroll 0 -16px}
