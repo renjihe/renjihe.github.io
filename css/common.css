@@ -1,0 +1,133 @@
+@font-face {
+	font-family: Hiragino Sans GB;
+	src: url('../fonts/dq.otf');
+}
+
+* {
+	font-family: "Hiragino Sans GB", sans-serif;
+}
+
+body {
+	padding:0px;
+	margin:0px;
+}
+
+a{text-decoration : none} 
+a:link{color:#0095eb;}
+a:hover{color:#0095eb;}
+a:active{color:#0095eb;}
+a:visited{color:#0095eb;}
+
+.container {
+	padding:20px 0px 20px 0px;
+	margin:auto;
+	width:1000px;
+}
+
+.highlight {
+	background-color:rgb(247, 247, 247);
+}
+
+.col-left {
+	float:left;
+	width:350px;
+}
+
+.col-right {
+	float:left;
+	width:500px;
+}
+
+.col-clear {
+	clear:both;
+}
+
+.col-md {
+	text-align:center
+}
+
+.col-brand {
+	float:left;
+	width:250px;
+}
+
+.title {
+	font-size:25;
+	font-weight:bold;
+}
+
+/*skills*/
+
+.ul-skills {
+	font-size:14px;
+	padding-left:20px;
+	padding-right:25px;
+}
+
+.ul-skills li {
+	line-height:25px;
+}
+
+.ul-skills li span {
+	float:right;
+	width:113px;
+	height:17px;
+}
+
+li span.r1{background: url(../image/rating-sprite.png) no-repeat scroll 0 -16px}
+li span.r2{background: url(../image/rating-sprite.png) no-repeat scroll 0 -76px}
+li span.r3{background: url(../image/rating-sprite.png) no-repeat scroll 0 -56px}
+li span.r4{background: url(../image/rating-sprite.png) no-repeat scroll 0 -36px}
+li span.r5{background: url(../image/rating-sprite.png) no-repeat scroll 0 0px}
+
+li span.r6{background: url(../image/rating-sprite.png) no-repeat scroll 0 -56px}
+li span.r7{background: url(../image/rating-sprite.png) no-repeat scroll 0 -76px}
+li span.r8{background: url(../image/rating-sprite.png) no-repeat scroll 0 -36px}
+li span.r9{background: url(../image/rating-sprite.png) no-repeat scroll 0 -76px}
+li span.r10{background: url(../image/rating-sprite.png) no-repeat scroll 0 -56px}
+
+/*profile*/
+.profile {
+	padding:20px 0px 0px 0px;	
+}
+
+.profile * {
+	margin:0px;
+}
+
+.profile .name {
+	padding:5px 0px 5px 0px;
+	font-size:30px;
+}
+
+.profile .job {
+	padding:5px 0px 5px 0px;
+	color:#AAAAAA;
+	font-size:20px;
+}
+
+.profile .url {
+	padding:5px 0px 5px 0px;
+}
+
+.profile .url a {
+	color:#0095eb;
+	font-size:25px;
+}
+
+.profile .social {
+	padding-top:20px;
+	font-size:45px;
+}
+
+/*contact*/
+.contact {
+	color:#4e4e4e;
+	font-size:25px;
+	line-height:50px;
+}
+
+.contact span {
+	padding-left:10px;
+	font-size:20px;
+}
