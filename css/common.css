@@ -139,3 +139,14 @@ li span.r10{background: url(../image/rating-sprite.png) no-repeat scroll 0 -56px
 	padding-left:10px;
 	font-size:20px;
 }
+
+.contact .phone {
+	color:#0095eb;
+	padding-left:10px;
+	font-size:20px;
+	display:none;
+}
+
+.contact .phone-icon {
+	display:none;
+}
