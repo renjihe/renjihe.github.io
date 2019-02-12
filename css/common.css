@@ -116,8 +116,15 @@ li span.r10{background: url(../image/rating-sprite.png) no-repeat scroll 0 -56px
 	font-size:25px;
 }
 
+.profile .phone {
+	padding:5px 0px 5px 0px;
+	color:#0095eb;
+	font-size:19px;
+	display:none;
+}
+
 .profile .social {
-	padding-top:20px;
+	padding-top:5px 0px 5px 0px;
 	font-size:45px;
 }
 
