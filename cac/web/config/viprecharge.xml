@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+	<r id="1" name="18万金币" productid="com.szyfby.yfby1" point="180000" cost="10元" desc="" amount="10" bonus="0"/>
+	<r id="2" name="35万金币" productid="com.szyfby.yfby2" point="350000" cost="20元" desc="" amount="20" bonus="0"/>
+	<r id="3" name="90万金币" productid="com.szyfby.yfby3" point="900000" cost="50元" desc="" amount="50" bonus="0"/>
+	<r id="4" name="180万金币" productid="com.szyfby.yfby4" point="1800000" cost="100元" desc="" amount="100" bonus="0"/>
+	<r id="5" name="900万金币" productid="com.szyfby.yfby5" point="9000000" cost="500元" desc="" amount="500" bonus="0"/>
+	<r id="6" name="1800万金币" productid="com.szyfby.yfby6" point="18000000" cost="1000元" desc="" amount="1000" bonus="0"/>
+
+</root>

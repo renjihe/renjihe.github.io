@@ -1,0 +1,5 @@
+[size=45][color=#FFFF00,#000000][b]测试公告[/b][/color][/size]
+[color=#FF0000][b]测试公告[/b][/color]
+[img]ui://Public/Portrait1[/img]
+<img src='ui://Public/Portrait1' width='50' height='50'/> [color=#000000] x 30 [/color]
+[url=http://www.baidu.com]baidu[/url]

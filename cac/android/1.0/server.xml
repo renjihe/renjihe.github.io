@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<server>
+		<r ip="115.29.37.192" port="20013" />
+	</server>
+	<patch src="https://jihe.ren/cac/" />
+	<login src="https://jihe.ren/cac/web/" />
+	<notice src="https://jihe.ren/cac/notice.txt" />
+	<service src="https://jihe.ren/cac/service.txt" />
+	<appstore value="true" />
+	<appurl src="http://fir.im/9ut7" /><!--<appurl src="itms-apps://itunes.apple.com" />-->
+	<enterprise src="http://fir.im/3u96" />
+</root>
